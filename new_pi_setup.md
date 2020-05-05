@@ -12,6 +12,7 @@
 	sudo wget -O /usr/local/bin/rsub https://raw.github.com/aurora/rmate/master/rmate
 	sudo chmod +x /usr/local/bin/rsub
 	```
+8. update software `sudo apt update && sudo apt upgrade`
 
 ## Locally
 1. bind IP address on router
