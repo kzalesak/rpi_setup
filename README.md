@@ -1,0 +1,1 @@
+Simple repo with steps on how to setup basic stuff on a new raspberry pi
